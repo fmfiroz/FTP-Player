@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <style name="Theme.FTPPlayer" parent="Theme.Leanback">
+        <!-- custom colors or attributes চাইলে এখানে দিন -->
+    </style>
